@@ -6,7 +6,6 @@
 
 [![Website](https://img.shields.io/badge/NK%20Design-design--nk.de-1A1A18?style=for-the-badge&logo=safari&logoColor=white&labelColor=2EAB73)](https://www.design-nk.de/)
 [![NeoWispr](https://img.shields.io/badge/NeoWispr-neowispr.app-1A1A18?style=for-the-badge&logo=apple&logoColor=white&labelColor=409CFF)](https://neowispr.app/)
-[![YouvsYou](https://img.shields.io/badge/YouvsYou-youvsyou.app-1A1A18?style=for-the-badge&logo=apple&logoColor=white&labelColor=FFB340)](https://youvsyou.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-NKDesign30-1A1A18?style=for-the-badge&logo=github&logoColor=white&labelColor=2EAB73)](https://github.com/NKDesign30)
 
 </div>
@@ -58,6 +57,17 @@ It is not another soft productivity app. The product idea is more direct:
 - grow into Watch, HealthKit, lockscreen widgets, pre-session rituals, and shareable progress cards
 
 The interesting part for NEON: the same ecosystem can create the app specs, design language, App Store material, launch checklists, copy, QA, and follow-up product roadmap around the app. Side project, but real product thinking.
+
+## Product lab
+
+Not every product starts as core NEON infrastructure. Some apps are product labs: focused side projects where the same system gets used to design, build, launch, review, and improve real products.
+
+| Product | What it is | Why it matters |
+| --- | --- | --- |
+| **YouvsYou** | iOS discipline app for screen-time pressure, hard sessions, streaks, and personal accountability. | Tests how NEON supports a full consumer app from specs and design to App Store launch material. |
+| **Lievy** | iOS app for couples to discover date ideas, swipe, match, plan, remember, and build rituals together. | Tests softer consumer UX, SwiftUI product polish, Supabase, pairing flows, realtime state, and emotional brand design. |
+| **CentFuchs** | Shopping-list price comparison app that matches groceries against supermarket offers and optimizes for savings. | Tests local utility apps, offer APIs, fuzzy matching, savings UX, notifications, gamification, and finance-adjacent consumer value. |
+| **Fox-Bear** | White-label marketing and CRM platform for small businesses in the DACH region. | Tests B2B landing pages, industry-specific funnels, lead capture, multilingual content, and conversion work. |
 
 ## NEON design system
 
