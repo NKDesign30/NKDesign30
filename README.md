@@ -41,7 +41,6 @@ Voice notes become text. Meetings become decisions. Messages become action cards
 | **NEON Agent Framework** | [GitHub](https://github.com/NKDesign30/neon-agent-framework) | Public repo | Public-safe agent framework with onboarding, approvals, memory, Discord wiring, daemon tooling, and local-first execution patterns. |
 | **neon-jira-mcp** | [GitHub](https://github.com/NKDesign30/neon-jira-mcp) | Public repo | Local MCP server that turns meeting actions into Jira issues. Small bridge, real workflow. |
 | **NeoVoice / NeoBar** | Private | Internal product line | Local voice operator for macOS: wake word, speech-to-text, TTS, HUD, background jobs, and fast command routing. |
-| **YouvsYou** | [youvsyou.app](https://youvsyou.app/) | Side project / iOS product in development | Discipline app for fighting the version of yourself that folds. Screen-time blocking, streaks, hard sessions, and later Watch / HealthKit. |
 | **neon-design** | Private design system | Internal source of truth | Brand tokens, typography, app icons, UI kits, SwiftUI package, and product-level visual language for the NEON family. |
 
 ## Side project: YouvsYou
